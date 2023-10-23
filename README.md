@@ -10,7 +10,7 @@
 以下圖舉例來說，Bluegreen規劃從台灣出發經過日本、北美、歐洲、澳洲後回來台灣。
 為了方便將他們用代號ABCDE表示。
 
-![Alt text](image/image.png)
+
 
 為了方便計算，將地圖轉為 distance matrix 表示，透過 distance matrix 可以方便查找各個點到點之間的距離，如下所示。舉例，A → B 的距離是 1 ，而C → E 的距離是 10 
 
